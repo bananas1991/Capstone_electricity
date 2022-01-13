@@ -4,10 +4,10 @@
 > * https://datahub.io/machine-learning/electricity
 We read in data for the last 30 years. It represents electricity movement beetwen Canada and USA.
 It has 7 columns:
-  * Period
-  * Activity 
-  * Source 
-  * Destination
-  * Energy 
-  * Total Value
-  * Price
+    * Period
+    * Activity 
+    * Source 
+    * Destination
+    * Energy 
+    * Total Value
+    * Price
