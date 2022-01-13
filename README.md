@@ -1,1 +1,1 @@
-![This is an image]https://image.sciencenordic.com/1418346.jpg?imageId=1418346&width=480&height=274
+![This is an image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Felectricity&psig=AOvVaw23w1gTx3a7l8xx80zAf1Jv&ust=1642183580707000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJCqmdqor_UCFQAAAAAdAAAAABAN)
