@@ -1,1 +1,1 @@
-![This is an image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Felectricity&psig=AOvVaw23w1gTx3a7l8xx80zAf1Jv&ust=1642183580707000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJCqmdqor_UCFQAAAAAdAAAAABAN)
+![This is an image](https://iea.imgix.net/b76ee6a7-ff18-4ee8-a557-5d4a5cbf421d/shutterstock_612227351.jpg?auto=compress%2Cformat&fit=min&q=80&rect=0%2C2105%2C4578%2C3047&w=1280&h=852&fit=crop&fm=jpg&q=70&auto=format)
