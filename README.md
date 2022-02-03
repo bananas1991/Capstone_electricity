@@ -38,7 +38,8 @@ We have South, Middle, West and NorthEast area.
 ![WEST](https://user-images.githubusercontent.com/77463436/152409044-3e923d8d-3393-4f5e-8450-94e80a4ff67a.png)
 
  ## 5. Machine learning - Multiple linear regression
- 
+ In out model we used different areas in USA to predict, electricity net value in CANADA.
+ The best model with biggest is accuracy is the linear model that uses electricity net value from NorthEast area of USA.
  ![South Predict](https://user-images.githubusercontent.com/77463436/152409417-f9fc8834-1dce-49e5-ab63-63a28b1aa908.png)
 ![MIDDLE PREDICT](https://user-images.githubusercontent.com/77463436/152409454-5c732a22-f3ec-4bbb-a0c9-78c5daa1bb8c.png)
 ![East predict](https://user-images.githubusercontent.com/77463436/152409525-25312d85-071b-4d19-8e53-7cde9ca0677f.png)
