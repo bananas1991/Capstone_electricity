@@ -19,3 +19,9 @@ and try to predict if in the future depedency. We are going to focus Canada's el
 ![Price](https://user-images.githubusercontent.com/77463436/152405840-f71f61c0-a935-45f0-897c-5d853c77a6c2.png)
 ![energy](https://user-images.githubusercontent.com/77463436/152405934-28210803-c85e-4de0-9a2b-4dbd75557af3.png)
 ![total value](https://user-images.githubusercontent.com/77463436/152405970-2b5e5bda-ee90-4499-8f9f-431909cf9739.png)
+
+## 3. EDA
+![EDA](https://user-images.githubusercontent.com/77463436/152406598-64084412-931b-4f2f-9d7b-bfd81fc6c103.png)
+![Total value EDA](https://user-images.githubusercontent.com/77463436/152406638-d4f534a9-ca11-4d84-a7cb-0dd2cb0bb7dd.png)
+![Total value 2 eda](https://user-images.githubusercontent.com/77463436/152406774-e3f98a70-5dc0-4128-9481-f5c5c5309038.png)
+![Price EDA](https://user-images.githubusercontent.com/77463436/152406815-d893f740-01ba-4348-82ef-9327bdf4b990.png)
