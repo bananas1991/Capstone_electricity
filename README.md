@@ -25,3 +25,10 @@ and try to predict if in the future depedency. We are going to focus Canada's el
 ![Total value EDA](https://user-images.githubusercontent.com/77463436/152406638-d4f534a9-ca11-4d84-a7cb-0dd2cb0bb7dd.png)
 ![Total value 2 eda](https://user-images.githubusercontent.com/77463436/152406774-e3f98a70-5dc0-4128-9481-f5c5c5309038.png)
 ![Price EDA](https://user-images.githubusercontent.com/77463436/152406815-d893f740-01ba-4348-82ef-9327bdf4b990.png)
+
+## 4. Pre-processing and Training Data Development/Modeling
+![CANADA NET](https://user-images.githubusercontent.com/77463436/152408876-7e7e67b9-d004-4a12-a53a-0c1240b1cd20.png)
+![SOUTH](https://user-images.githubusercontent.com/77463436/152408911-b76ee1f6-b2d7-43aa-9436-eaaffa55d345.png)
+![MIDDLE](https://user-images.githubusercontent.com/77463436/152408943-6ace549a-ce3a-4332-935e-ff466c9c5390.png)
+![NORTHEAST](https://user-images.githubusercontent.com/77463436/152408990-e5511c18-9cfa-4d8f-84fe-603e504a695f.png)
+![WEST](https://user-images.githubusercontent.com/77463436/152409044-3e923d8d-3393-4f5e-8450-94e80a4ff67a.png)
