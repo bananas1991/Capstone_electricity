@@ -16,5 +16,6 @@ The need for electricity changes rapidly every year. With the advancement of teh
 and try to predict if in the future depedency. We are going to focus Canada's electric grid and try to explore if there are on the way to become self-sufficient.
 
 ## 2. Data wrangling
-![EDA](https://user-images.githubusercontent.com/77463436/152405360-8df9ef9f-5bd1-46ac-aee1-a18c013a9a21.png)
-
+![Price](https://user-images.githubusercontent.com/77463436/152405840-f71f61c0-a935-45f0-897c-5d853c77a6c2.png)
+![energy](https://user-images.githubusercontent.com/77463436/152405934-28210803-c85e-4de0-9a2b-4dbd75557af3.png)
+![total value](https://user-images.githubusercontent.com/77463436/152405970-2b5e5bda-ee90-4499-8f9f-431909cf9739.png)
