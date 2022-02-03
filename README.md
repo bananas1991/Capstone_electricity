@@ -29,6 +29,8 @@ Also we need to create adittional data visualization to check possible value tre
 ![Price EDA](https://user-images.githubusercontent.com/77463436/152406815-d893f740-01ba-4348-82ef-9327bdf4b990.png)
 
 ## 4. Pre-processing and Training Data Development/Modeling
+For our Pre-processing we will need to group values from cities in USA, in 4 different groups. And every group is going to represent an area in USA.
+We have South, Middle, West and NorthEast area.
 ![CANADA NET](https://user-images.githubusercontent.com/77463436/152408876-7e7e67b9-d004-4a12-a53a-0c1240b1cd20.png)
 ![SOUTH](https://user-images.githubusercontent.com/77463436/152408911-b76ee1f6-b2d7-43aa-9436-eaaffa55d345.png)
 ![MIDDLE](https://user-images.githubusercontent.com/77463436/152408943-6ace549a-ce3a-4332-935e-ff466c9c5390.png)
