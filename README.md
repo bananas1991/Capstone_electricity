@@ -13,7 +13,7 @@ It has 7 columns:
     * Price
 ## 1. Problem statement
 The need for electricity changes rapidly every year. With the advancement of tehnology, the number of electronic devices grows every year, and need for producing and importing aditional electricity grows with it. With help of our data we are going to explore the relation beetween Canada and USA,
-and try to predict if in the future depedency. We are going to focus Canada's electric grid and try to explore if there are on the way to become self-sufficient.
+and try to predict the future depedency. We are going to focus Canada's electric grid and try to explore if there are on the way to become self-sufficient.
 
 ## 2. Data wrangling
 The most important columns for our project are Price, Energy and Total Value. We will check for possible outliers and missiing values and try to sort all the data properly.
