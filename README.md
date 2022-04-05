@@ -1,7 +1,6 @@
 ![This is an image](https://iea.imgix.net/b76ee6a7-ff18-4ee8-a557-5d4a5cbf421d/shutterstock_612227351.jpg?auto=compress%2Cformat&fit=min&q=80&rect=0%2C2105%2C4578%2C3047&w=1280&h=852&fit=crop&fm=jpg&q=70&auto=format)
 * Electricity is a basic part of nature and it is one of our most widely used forms of energy. We get electricity, which is a secondary energy source, from the conversion of other sources of energy, like coal, natural gas, oil, nuclear power and other natural sources, which are called primary sources. Many cities and towns were built alongside waterfalls (a primary source of mechanical energy) that turned water wheels to perform work. Before electricity generation began slightly over 100 years ago, houses were lit with kerosene lamps, food was cooled in iceboxes, and rooms were warmed by wood-burning or coal-burning stoves. Beginning with Benjamin Franklin's experiment with a kite one stormy night in Philadelphia, the principles of electricity gradually became understood. In the mid-1800s, everyone's life changed with the invention of the electric light bulb. Prior to 1879, electricity had been used in arc lights for outdoor lighting. The lightbulb's invention used electricity to bring indoor lighting to our homes.
 ##  Data 
-> * https://datahub.io/machine-learning/electricity
 We read in data for the last 30 years. It represents electricity movement beetwen Canada and USA.
 It has 7 columns:
     * Period
@@ -38,7 +37,7 @@ We have South, Middle, West and NorthEast area.
 ![WEST](https://user-images.githubusercontent.com/77463436/152409044-3e923d8d-3393-4f5e-8450-94e80a4ff67a.png)
 
  ## 5. Machine learning - Multiple linear regression
- In out model we used different areas in USA to predict, electricity net value in CANADA.
+ In our model we used different areas in USA to predict, electricity net value in CANADA.
  The best model with biggest is accuracy is the linear model that uses electricity net value from NorthEast area of USA, for a feature.
  ![South Predict](https://user-images.githubusercontent.com/77463436/152409417-f9fc8834-1dce-49e5-ab63-63a28b1aa908.png)
 ![MIDDLE PREDICT](https://user-images.githubusercontent.com/77463436/152409454-5c732a22-f3ec-4bbb-a0c9-78c5daa1bb8c.png)
